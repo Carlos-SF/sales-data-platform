@@ -1,0 +1,27 @@
+
+# Credenciais e variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Ambiente Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Logs e arquivos temporários
+logs/
+*.log
+*.bak
+*.bak-*
+*.bak2
+
+# Configurações locais de ferramentas
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db

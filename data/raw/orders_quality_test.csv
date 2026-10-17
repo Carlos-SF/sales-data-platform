@@ -1,0 +1,6 @@
+order_id,customer_id,product_id,order_date,quantity,unit_price,status
+900001,1,1001,data_invalida,2,99.90,completed
+900002,2,1002,2026-10-01,-1,49.90,completed
+900003,3,1003,2026-10-02,1,-5.00,completed
+900004,9999999,1004,2026-10-03,1,10.00,completed
+900005,4,1005,2026-10-04,1,25.00,status_invalido

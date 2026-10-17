@@ -1,0 +1,5 @@
+status,order_count,units_sold,gross_order_value
+completed,72050,180540,586385508.02
+cancelled,11981,29806,96468062.97
+returned,9055,22555,73407918.28
+pending,6914,17094,55623084.81

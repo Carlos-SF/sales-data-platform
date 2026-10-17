@@ -1,0 +1,501 @@
+product_id,product_name,category
+1001,Notebook Modelo 001,Informatica
+1002,Cabo USB Modelo 002,Acessorios
+1003,Cadeira Modelo 003,Escritorio
+1004,Liquidificador Modelo 004,Casa
+1005,Smart TV Modelo 005,Audio e Video
+1006,Smartphone Modelo 006,Telefonia
+1007,Controle Modelo 007,Games
+1008,Furadeira Modelo 008,Ferramentas
+1009,Monitor Modelo 009,Informatica
+1010,Adaptador Modelo 010,Acessorios
+1011,Mesa Modelo 011,Escritorio
+1012,Cafeteira Modelo 012,Casa
+1013,Caixa de som Modelo 013,Audio e Video
+1014,Telefone sem fio Modelo 014,Telefonia
+1015,Teclado gamer Modelo 015,Games
+1016,Parafusadeira Modelo 016,Ferramentas
+1017,Teclado Modelo 017,Informatica
+1018,Carregador Modelo 018,Acessorios
+1019,Luminaria Modelo 019,Escritorio
+1020,Ventilador Modelo 020,Casa
+1021,Fone Bluetooth Modelo 021,Audio e Video
+1022,Power bank Modelo 022,Telefonia
+1023,Mouse gamer Modelo 023,Games
+1024,Jogo de chaves Modelo 024,Ferramentas
+1025,Mouse Modelo 025,Informatica
+1026,Suporte Modelo 026,Acessorios
+1027,Organizador Modelo 027,Escritorio
+1028,Panela Modelo 028,Casa
+1029,Microfone Modelo 029,Audio e Video
+1030,Smartwatch Modelo 030,Telefonia
+1031,Headset gamer Modelo 031,Games
+1032,Alicate Modelo 032,Ferramentas
+1033,Webcam Modelo 033,Informatica
+1034,Case Modelo 034,Acessorios
+1035,Caderno Modelo 035,Escritorio
+1036,Aspirador Modelo 036,Casa
+1037,Projetor Modelo 037,Audio e Video
+1038,Chip Modelo 038,Telefonia
+1039,Cadeira gamer Modelo 039,Games
+1040,Trena Modelo 040,Ferramentas
+1041,SSD Modelo 041,Informatica
+1042,Película Modelo 042,Acessorios
+1043,Caneta Modelo 043,Escritorio
+1044,Ferro de passar Modelo 044,Casa
+1045,Soundbar Modelo 045,Audio e Video
+1046,Base carregadora Modelo 046,Telefonia
+1047,Console Modelo 047,Games
+1048,Serra Modelo 048,Ferramentas
+1049,Memoria RAM Modelo 049,Informatica
+1050,Mochila Modelo 050,Acessorios
+1051,Calculadora Modelo 051,Escritorio
+1052,Liquidificador Modelo 052,Casa
+1053,Smart TV Modelo 053,Audio e Video
+1054,Smartphone Modelo 054,Telefonia
+1055,Controle Modelo 055,Games
+1056,Furadeira Modelo 056,Ferramentas
+1057,Headset Modelo 057,Informatica
+1058,Mousepad Modelo 058,Acessorios
+1059,Grampeador Modelo 059,Escritorio
+1060,Cafeteira Modelo 060,Casa
+1061,Caixa de som Modelo 061,Audio e Video
+1062,Telefone sem fio Modelo 062,Telefonia
+1063,Teclado gamer Modelo 063,Games
+1064,Parafusadeira Modelo 064,Ferramentas
+1065,Hub USB Modelo 065,Informatica
+1066,Cabo USB Modelo 066,Acessorios
+1067,Cadeira Modelo 067,Escritorio
+1068,Ventilador Modelo 068,Casa
+1069,Fone Bluetooth Modelo 069,Audio e Video
+1070,Power bank Modelo 070,Telefonia
+1071,Mouse gamer Modelo 071,Games
+1072,Jogo de chaves Modelo 072,Ferramentas
+1073,Roteador Modelo 073,Informatica
+1074,Adaptador Modelo 074,Acessorios
+1075,Mesa Modelo 075,Escritorio
+1076,Panela Modelo 076,Casa
+1077,Microfone Modelo 077,Audio e Video
+1078,Smartwatch Modelo 078,Telefonia
+1079,Headset gamer Modelo 079,Games
+1080,Alicate Modelo 080,Ferramentas
+1081,Notebook Modelo 081,Informatica
+1082,Carregador Modelo 082,Acessorios
+1083,Luminaria Modelo 083,Escritorio
+1084,Aspirador Modelo 084,Casa
+1085,Projetor Modelo 085,Audio e Video
+1086,Chip Modelo 086,Telefonia
+1087,Cadeira gamer Modelo 087,Games
+1088,Trena Modelo 088,Ferramentas
+1089,Monitor Modelo 089,Informatica
+1090,Suporte Modelo 090,Acessorios
+1091,Organizador Modelo 091,Escritorio
+1092,Ferro de passar Modelo 092,Casa
+1093,Soundbar Modelo 093,Audio e Video
+1094,Base carregadora Modelo 094,Telefonia
+1095,Console Modelo 095,Games
+1096,Serra Modelo 096,Ferramentas
+1097,Teclado Modelo 097,Informatica
+1098,Case Modelo 098,Acessorios
+1099,Caderno Modelo 099,Escritorio
+1100,Liquidificador Modelo 100,Casa
+1101,Smart TV Modelo 101,Audio e Video
+1102,Smartphone Modelo 102,Telefonia
+1103,Controle Modelo 103,Games
+1104,Furadeira Modelo 104,Ferramentas
+1105,Mouse Modelo 105,Informatica
+1106,Película Modelo 106,Acessorios
+1107,Caneta Modelo 107,Escritorio
+1108,Cafeteira Modelo 108,Casa
+1109,Caixa de som Modelo 109,Audio e Video
+1110,Telefone sem fio Modelo 110,Telefonia
+1111,Teclado gamer Modelo 111,Games
+1112,Parafusadeira Modelo 112,Ferramentas
+1113,Webcam Modelo 113,Informatica
+1114,Mochila Modelo 114,Acessorios
+1115,Calculadora Modelo 115,Escritorio
+1116,Ventilador Modelo 116,Casa
+1117,Fone Bluetooth Modelo 117,Audio e Video
+1118,Power bank Modelo 118,Telefonia
+1119,Mouse gamer Modelo 119,Games
+1120,Jogo de chaves Modelo 120,Ferramentas
+1121,SSD Modelo 121,Informatica
+1122,Mousepad Modelo 122,Acessorios
+1123,Grampeador Modelo 123,Escritorio
+1124,Panela Modelo 124,Casa
+1125,Microfone Modelo 125,Audio e Video
+1126,Smartwatch Modelo 126,Telefonia
+1127,Headset gamer Modelo 127,Games
+1128,Alicate Modelo 128,Ferramentas
+1129,Memoria RAM Modelo 129,Informatica
+1130,Cabo USB Modelo 130,Acessorios
+1131,Cadeira Modelo 131,Escritorio
+1132,Aspirador Modelo 132,Casa
+1133,Projetor Modelo 133,Audio e Video
+1134,Chip Modelo 134,Telefonia
+1135,Cadeira gamer Modelo 135,Games
+1136,Trena Modelo 136,Ferramentas
+1137,Headset Modelo 137,Informatica
+1138,Adaptador Modelo 138,Acessorios
+1139,Mesa Modelo 139,Escritorio
+1140,Ferro de passar Modelo 140,Casa
+1141,Soundbar Modelo 141,Audio e Video
+1142,Base carregadora Modelo 142,Telefonia
+1143,Console Modelo 143,Games
+1144,Serra Modelo 144,Ferramentas
+1145,Hub USB Modelo 145,Informatica
+1146,Carregador Modelo 146,Acessorios
+1147,Luminaria Modelo 147,Escritorio
+1148,Liquidificador Modelo 148,Casa
+1149,Smart TV Modelo 149,Audio e Video
+1150,Smartphone Modelo 150,Telefonia
+1151,Controle Modelo 151,Games
+1152,Furadeira Modelo 152,Ferramentas
+1153,Roteador Modelo 153,Informatica
+1154,Suporte Modelo 154,Acessorios
+1155,Organizador Modelo 155,Escritorio
+1156,Cafeteira Modelo 156,Casa
+1157,Caixa de som Modelo 157,Audio e Video
+1158,Telefone sem fio Modelo 158,Telefonia
+1159,Teclado gamer Modelo 159,Games
+1160,Parafusadeira Modelo 160,Ferramentas
+1161,Notebook Modelo 161,Informatica
+1162,Case Modelo 162,Acessorios
+1163,Caderno Modelo 163,Escritorio
+1164,Ventilador Modelo 164,Casa
+1165,Fone Bluetooth Modelo 165,Audio e Video
+1166,Power bank Modelo 166,Telefonia
+1167,Mouse gamer Modelo 167,Games
+1168,Jogo de chaves Modelo 168,Ferramentas
+1169,Monitor Modelo 169,Informatica
+1170,Película Modelo 170,Acessorios
+1171,Caneta Modelo 171,Escritorio
+1172,Panela Modelo 172,Casa
+1173,Microfone Modelo 173,Audio e Video
+1174,Smartwatch Modelo 174,Telefonia
+1175,Headset gamer Modelo 175,Games
+1176,Alicate Modelo 176,Ferramentas
+1177,Teclado Modelo 177,Informatica
+1178,Mochila Modelo 178,Acessorios
+1179,Calculadora Modelo 179,Escritorio
+1180,Aspirador Modelo 180,Casa
+1181,Projetor Modelo 181,Audio e Video
+1182,Chip Modelo 182,Telefonia
+1183,Cadeira gamer Modelo 183,Games
+1184,Trena Modelo 184,Ferramentas
+1185,Mouse Modelo 185,Informatica
+1186,Mousepad Modelo 186,Acessorios
+1187,Grampeador Modelo 187,Escritorio
+1188,Ferro de passar Modelo 188,Casa
+1189,Soundbar Modelo 189,Audio e Video
+1190,Base carregadora Modelo 190,Telefonia
+1191,Console Modelo 191,Games
+1192,Serra Modelo 192,Ferramentas
+1193,Webcam Modelo 193,Informatica
+1194,Cabo USB Modelo 194,Acessorios
+1195,Cadeira Modelo 195,Escritorio
+1196,Liquidificador Modelo 196,Casa
+1197,Smart TV Modelo 197,Audio e Video
+1198,Smartphone Modelo 198,Telefonia
+1199,Controle Modelo 199,Games
+1200,Furadeira Modelo 200,Ferramentas
+1201,SSD Modelo 201,Informatica
+1202,Adaptador Modelo 202,Acessorios
+1203,Mesa Modelo 203,Escritorio
+1204,Cafeteira Modelo 204,Casa
+1205,Caixa de som Modelo 205,Audio e Video
+1206,Telefone sem fio Modelo 206,Telefonia
+1207,Teclado gamer Modelo 207,Games
+1208,Parafusadeira Modelo 208,Ferramentas
+1209,Memoria RAM Modelo 209,Informatica
+1210,Carregador Modelo 210,Acessorios
+1211,Luminaria Modelo 211,Escritorio
+1212,Ventilador Modelo 212,Casa
+1213,Fone Bluetooth Modelo 213,Audio e Video
+1214,Power bank Modelo 214,Telefonia
+1215,Mouse gamer Modelo 215,Games
+1216,Jogo de chaves Modelo 216,Ferramentas
+1217,Headset Modelo 217,Informatica
+1218,Suporte Modelo 218,Acessorios
+1219,Organizador Modelo 219,Escritorio
+1220,Panela Modelo 220,Casa
+1221,Microfone Modelo 221,Audio e Video
+1222,Smartwatch Modelo 222,Telefonia
+1223,Headset gamer Modelo 223,Games
+1224,Alicate Modelo 224,Ferramentas
+1225,Hub USB Modelo 225,Informatica
+1226,Case Modelo 226,Acessorios
+1227,Caderno Modelo 227,Escritorio
+1228,Aspirador Modelo 228,Casa
+1229,Projetor Modelo 229,Audio e Video
+1230,Chip Modelo 230,Telefonia
+1231,Cadeira gamer Modelo 231,Games
+1232,Trena Modelo 232,Ferramentas
+1233,Roteador Modelo 233,Informatica
+1234,Película Modelo 234,Acessorios
+1235,Caneta Modelo 235,Escritorio
+1236,Ferro de passar Modelo 236,Casa
+1237,Soundbar Modelo 237,Audio e Video
+1238,Base carregadora Modelo 238,Telefonia
+1239,Console Modelo 239,Games
+1240,Serra Modelo 240,Ferramentas
+1241,Notebook Modelo 241,Informatica
+1242,Mochila Modelo 242,Acessorios
+1243,Calculadora Modelo 243,Escritorio
+1244,Liquidificador Modelo 244,Casa
+1245,Smart TV Modelo 245,Audio e Video
+1246,Smartphone Modelo 246,Telefonia
+1247,Controle Modelo 247,Games
+1248,Furadeira Modelo 248,Ferramentas
+1249,Monitor Modelo 249,Informatica
+1250,Mousepad Modelo 250,Acessorios
+1251,Grampeador Modelo 251,Escritorio
+1252,Cafeteira Modelo 252,Casa
+1253,Caixa de som Modelo 253,Audio e Video
+1254,Telefone sem fio Modelo 254,Telefonia
+1255,Teclado gamer Modelo 255,Games
+1256,Parafusadeira Modelo 256,Ferramentas
+1257,Teclado Modelo 257,Informatica
+1258,Cabo USB Modelo 258,Acessorios
+1259,Cadeira Modelo 259,Escritorio
+1260,Ventilador Modelo 260,Casa
+1261,Fone Bluetooth Modelo 261,Audio e Video
+1262,Power bank Modelo 262,Telefonia
+1263,Mouse gamer Modelo 263,Games
+1264,Jogo de chaves Modelo 264,Ferramentas
+1265,Mouse Modelo 265,Informatica
+1266,Adaptador Modelo 266,Acessorios
+1267,Mesa Modelo 267,Escritorio
+1268,Panela Modelo 268,Casa
+1269,Microfone Modelo 269,Audio e Video
+1270,Smartwatch Modelo 270,Telefonia
+1271,Headset gamer Modelo 271,Games
+1272,Alicate Modelo 272,Ferramentas
+1273,Webcam Modelo 273,Informatica
+1274,Carregador Modelo 274,Acessorios
+1275,Luminaria Modelo 275,Escritorio
+1276,Aspirador Modelo 276,Casa
+1277,Projetor Modelo 277,Audio e Video
+1278,Chip Modelo 278,Telefonia
+1279,Cadeira gamer Modelo 279,Games
+1280,Trena Modelo 280,Ferramentas
+1281,SSD Modelo 281,Informatica
+1282,Suporte Modelo 282,Acessorios
+1283,Organizador Modelo 283,Escritorio
+1284,Ferro de passar Modelo 284,Casa
+1285,Soundbar Modelo 285,Audio e Video
+1286,Base carregadora Modelo 286,Telefonia
+1287,Console Modelo 287,Games
+1288,Serra Modelo 288,Ferramentas
+1289,Memoria RAM Modelo 289,Informatica
+1290,Case Modelo 290,Acessorios
+1291,Caderno Modelo 291,Escritorio
+1292,Liquidificador Modelo 292,Casa
+1293,Smart TV Modelo 293,Audio e Video
+1294,Smartphone Modelo 294,Telefonia
+1295,Controle Modelo 295,Games
+1296,Furadeira Modelo 296,Ferramentas
+1297,Headset Modelo 297,Informatica
+1298,Película Modelo 298,Acessorios
+1299,Caneta Modelo 299,Escritorio
+1300,Cafeteira Modelo 300,Casa
+1301,Caixa de som Modelo 301,Audio e Video
+1302,Telefone sem fio Modelo 302,Telefonia
+1303,Teclado gamer Modelo 303,Games
+1304,Parafusadeira Modelo 304,Ferramentas
+1305,Hub USB Modelo 305,Informatica
+1306,Mochila Modelo 306,Acessorios
+1307,Calculadora Modelo 307,Escritorio
+1308,Ventilador Modelo 308,Casa
+1309,Fone Bluetooth Modelo 309,Audio e Video
+1310,Power bank Modelo 310,Telefonia
+1311,Mouse gamer Modelo 311,Games
+1312,Jogo de chaves Modelo 312,Ferramentas
+1313,Roteador Modelo 313,Informatica
+1314,Mousepad Modelo 314,Acessorios
+1315,Grampeador Modelo 315,Escritorio
+1316,Panela Modelo 316,Casa
+1317,Microfone Modelo 317,Audio e Video
+1318,Smartwatch Modelo 318,Telefonia
+1319,Headset gamer Modelo 319,Games
+1320,Alicate Modelo 320,Ferramentas
+1321,Notebook Modelo 321,Informatica
+1322,Cabo USB Modelo 322,Acessorios
+1323,Cadeira Modelo 323,Escritorio
+1324,Aspirador Modelo 324,Casa
+1325,Projetor Modelo 325,Audio e Video
+1326,Chip Modelo 326,Telefonia
+1327,Cadeira gamer Modelo 327,Games
+1328,Trena Modelo 328,Ferramentas
+1329,Monitor Modelo 329,Informatica
+1330,Adaptador Modelo 330,Acessorios
+1331,Mesa Modelo 331,Escritorio
+1332,Ferro de passar Modelo 332,Casa
+1333,Soundbar Modelo 333,Audio e Video
+1334,Base carregadora Modelo 334,Telefonia
+1335,Console Modelo 335,Games
+1336,Serra Modelo 336,Ferramentas
+1337,Teclado Modelo 337,Informatica
+1338,Carregador Modelo 338,Acessorios
+1339,Luminaria Modelo 339,Escritorio
+1340,Liquidificador Modelo 340,Casa
+1341,Smart TV Modelo 341,Audio e Video
+1342,Smartphone Modelo 342,Telefonia
+1343,Controle Modelo 343,Games
+1344,Furadeira Modelo 344,Ferramentas
+1345,Mouse Modelo 345,Informatica
+1346,Suporte Modelo 346,Acessorios
+1347,Organizador Modelo 347,Escritorio
+1348,Cafeteira Modelo 348,Casa
+1349,Caixa de som Modelo 349,Audio e Video
+1350,Telefone sem fio Modelo 350,Telefonia
+1351,Teclado gamer Modelo 351,Games
+1352,Parafusadeira Modelo 352,Ferramentas
+1353,Webcam Modelo 353,Informatica
+1354,Case Modelo 354,Acessorios
+1355,Caderno Modelo 355,Escritorio
+1356,Ventilador Modelo 356,Casa
+1357,Fone Bluetooth Modelo 357,Audio e Video
+1358,Power bank Modelo 358,Telefonia
+1359,Mouse gamer Modelo 359,Games
+1360,Jogo de chaves Modelo 360,Ferramentas
+1361,SSD Modelo 361,Informatica
+1362,Película Modelo 362,Acessorios
+1363,Caneta Modelo 363,Escritorio
+1364,Panela Modelo 364,Casa
+1365,Microfone Modelo 365,Audio e Video
+1366,Smartwatch Modelo 366,Telefonia
+1367,Headset gamer Modelo 367,Games
+1368,Alicate Modelo 368,Ferramentas
+1369,Memoria RAM Modelo 369,Informatica
+1370,Mochila Modelo 370,Acessorios
+1371,Calculadora Modelo 371,Escritorio
+1372,Aspirador Modelo 372,Casa
+1373,Projetor Modelo 373,Audio e Video
+1374,Chip Modelo 374,Telefonia
+1375,Cadeira gamer Modelo 375,Games
+1376,Trena Modelo 376,Ferramentas
+1377,Headset Modelo 377,Informatica
+1378,Mousepad Modelo 378,Acessorios
+1379,Grampeador Modelo 379,Escritorio
+1380,Ferro de passar Modelo 380,Casa
+1381,Soundbar Modelo 381,Audio e Video
+1382,Base carregadora Modelo 382,Telefonia
+1383,Console Modelo 383,Games
+1384,Serra Modelo 384,Ferramentas
+1385,Hub USB Modelo 385,Informatica
+1386,Cabo USB Modelo 386,Acessorios
+1387,Cadeira Modelo 387,Escritorio
+1388,Liquidificador Modelo 388,Casa
+1389,Smart TV Modelo 389,Audio e Video
+1390,Smartphone Modelo 390,Telefonia
+1391,Controle Modelo 391,Games
+1392,Furadeira Modelo 392,Ferramentas
+1393,Roteador Modelo 393,Informatica
+1394,Adaptador Modelo 394,Acessorios
+1395,Mesa Modelo 395,Escritorio
+1396,Cafeteira Modelo 396,Casa
+1397,Caixa de som Modelo 397,Audio e Video
+1398,Telefone sem fio Modelo 398,Telefonia
+1399,Teclado gamer Modelo 399,Games
+1400,Parafusadeira Modelo 400,Ferramentas
+1401,Notebook Modelo 401,Informatica
+1402,Carregador Modelo 402,Acessorios
+1403,Luminaria Modelo 403,Escritorio
+1404,Ventilador Modelo 404,Casa
+1405,Fone Bluetooth Modelo 405,Audio e Video
+1406,Power bank Modelo 406,Telefonia
+1407,Mouse gamer Modelo 407,Games
+1408,Jogo de chaves Modelo 408,Ferramentas
+1409,Monitor Modelo 409,Informatica
+1410,Suporte Modelo 410,Acessorios
+1411,Organizador Modelo 411,Escritorio
+1412,Panela Modelo 412,Casa
+1413,Microfone Modelo 413,Audio e Video
+1414,Smartwatch Modelo 414,Telefonia
+1415,Headset gamer Modelo 415,Games
+1416,Alicate Modelo 416,Ferramentas
+1417,Teclado Modelo 417,Informatica
+1418,Case Modelo 418,Acessorios
+1419,Caderno Modelo 419,Escritorio
+1420,Aspirador Modelo 420,Casa
+1421,Projetor Modelo 421,Audio e Video
+1422,Chip Modelo 422,Telefonia
+1423,Cadeira gamer Modelo 423,Games
+1424,Trena Modelo 424,Ferramentas
+1425,Mouse Modelo 425,Informatica
+1426,Película Modelo 426,Acessorios
+1427,Caneta Modelo 427,Escritorio
+1428,Ferro de passar Modelo 428,Casa
+1429,Soundbar Modelo 429,Audio e Video
+1430,Base carregadora Modelo 430,Telefonia
+1431,Console Modelo 431,Games
+1432,Serra Modelo 432,Ferramentas
+1433,Webcam Modelo 433,Informatica
+1434,Mochila Modelo 434,Acessorios
+1435,Calculadora Modelo 435,Escritorio
+1436,Liquidificador Modelo 436,Casa
+1437,Smart TV Modelo 437,Audio e Video
+1438,Smartphone Modelo 438,Telefonia
+1439,Controle Modelo 439,Games
+1440,Furadeira Modelo 440,Ferramentas
+1441,SSD Modelo 441,Informatica
+1442,Mousepad Modelo 442,Acessorios
+1443,Grampeador Modelo 443,Escritorio
+1444,Cafeteira Modelo 444,Casa
+1445,Caixa de som Modelo 445,Audio e Video
+1446,Telefone sem fio Modelo 446,Telefonia
+1447,Teclado gamer Modelo 447,Games
+1448,Parafusadeira Modelo 448,Ferramentas
+1449,Memoria RAM Modelo 449,Informatica
+1450,Cabo USB Modelo 450,Acessorios
+1451,Cadeira Modelo 451,Escritorio
+1452,Ventilador Modelo 452,Casa
+1453,Fone Bluetooth Modelo 453,Audio e Video
+1454,Power bank Modelo 454,Telefonia
+1455,Mouse gamer Modelo 455,Games
+1456,Jogo de chaves Modelo 456,Ferramentas
+1457,Headset Modelo 457,Informatica
+1458,Adaptador Modelo 458,Acessorios
+1459,Mesa Modelo 459,Escritorio
+1460,Panela Modelo 460,Casa
+1461,Microfone Modelo 461,Audio e Video
+1462,Smartwatch Modelo 462,Telefonia
+1463,Headset gamer Modelo 463,Games
+1464,Alicate Modelo 464,Ferramentas
+1465,Hub USB Modelo 465,Informatica
+1466,Carregador Modelo 466,Acessorios
+1467,Luminaria Modelo 467,Escritorio
+1468,Aspirador Modelo 468,Casa
+1469,Projetor Modelo 469,Audio e Video
+1470,Chip Modelo 470,Telefonia
+1471,Cadeira gamer Modelo 471,Games
+1472,Trena Modelo 472,Ferramentas
+1473,Roteador Modelo 473,Informatica
+1474,Suporte Modelo 474,Acessorios
+1475,Organizador Modelo 475,Escritorio
+1476,Ferro de passar Modelo 476,Casa
+1477,Soundbar Modelo 477,Audio e Video
+1478,Base carregadora Modelo 478,Telefonia
+1479,Console Modelo 479,Games
+1480,Serra Modelo 480,Ferramentas
+1481,Notebook Modelo 481,Informatica
+1482,Case Modelo 482,Acessorios
+1483,Caderno Modelo 483,Escritorio
+1484,Liquidificador Modelo 484,Casa
+1485,Smart TV Modelo 485,Audio e Video
+1486,Smartphone Modelo 486,Telefonia
+1487,Controle Modelo 487,Games
+1488,Furadeira Modelo 488,Ferramentas
+1489,Monitor Modelo 489,Informatica
+1490,Película Modelo 490,Acessorios
+1491,Caneta Modelo 491,Escritorio
+1492,Cafeteira Modelo 492,Casa
+1493,Caixa de som Modelo 493,Audio e Video
+1494,Telefone sem fio Modelo 494,Telefonia
+1495,Teclado gamer Modelo 495,Games
+1496,Parafusadeira Modelo 496,Ferramentas
+1497,Teclado Modelo 497,Informatica
+1498,Mochila Modelo 498,Acessorios
+1499,Calculadora Modelo 499,Escritorio
+1500,Ventilador Modelo 500,Casa
