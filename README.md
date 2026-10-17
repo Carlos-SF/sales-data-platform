@@ -43,6 +43,10 @@ flowchart TD
 | pytest | Testes automatizados de qualidade |
 | Git | Controle de versão |
 
+## Dados utilizados
+
+O projeto utiliza arquivos CSV de exemplo para demonstrar o processamento de clientes, produtos e pedidos. Os dados e valores apresentados são sintéticos e destinados a fins educacionais e de portfólio.
+
 ## Camadas de dados
 
 ### Raw
@@ -136,7 +140,7 @@ sales-data-platform/
 │   ├── sales_pipeline/
 │   └── transform/
 ├── tests/
-├── .env
+├── .env.example
 ├── .gitignore
 ├── Dockerfile.airflow
 ├── docker-compose.yml
@@ -156,13 +160,18 @@ sales-data-platform/
 ### 1. Clonar o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/Carlos-SF/sales-data-platform.git
 cd sales-data-platform
 ```
 
 ### 2. Configurar as variáveis de ambiente
 
-Crie ou configure o arquivo `.env` conforme as variáveis utilizadas no `docker-compose.yml`.
+Copie o modelo de configuração e edite o arquivo local com senhas próprias:
+```bash
+cp .env.example .env
+```
+
+Substitua os valores de exemplo por senhas locais fortes antes de iniciar os containers.
 
 **Não publique senhas ou credenciais no GitHub.**
 
