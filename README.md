@@ -122,6 +122,29 @@ Na execução validada do pipeline:
 | Valor de pedidos concluídos | R$ 586.385.508,02 |
 
 Os totais financeiros foram reconciliados entre as tabelas Silver e Gold durante a validação.
+### Exemplo de consulta para validar os indicadores
+
+A consulta abaixo consolida os indicadores da tabela `gold.sales_daily_sql`, permitindo conferir o volume de pedidos, as unidades vendidas e os valores financeiros agregados.
+
+```sql
+SELECT
+    SUM(order_count) AS total_pedidos,
+    SUM(units_sold) AS total_unidades_vendidas,
+    ROUND(SUM(gross_order_value), 2) AS valor_bruto_total,
+    ROUND(SUM(completed_order_value), 2) AS valor_pedidos_concluidos
+FROM gold.sales_daily_sql;
+```
+
+### Validações automatizadas da Gold
+
+O script `src/quality/validate_gold.py` executa verificações de integridade referencial, unicidade das chaves e reconciliação financeira entre Silver e Gold. Quando identifica inconsistências, registra os erros e encerra a execução com falha, permitindo que o Airflow sinalize o problema.
+
+As verificações incluem:
+
+- Pedidos com referências inexistentes de clientes ou produtos.
+- Chaves duplicadas nas tabelas Silver.
+- Correspondência dos valores brutos entre Silver e Gold diária e por status.
+- Correspondência dos valores de pedidos concluídos entre Silver e Gold diária.
 
 ## Estrutura do projeto
 
