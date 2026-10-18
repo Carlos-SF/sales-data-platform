@@ -92,6 +92,12 @@ A DAG `sales_data_pipeline` organiza as etapas na seguinte ordem:
 
 A DAG foi executada com sucesso, com as sete tarefas concluídas.
 
+### Evidência de execução
+
+A imagem abaixo registra a execução do pipeline no Apache Airflow. Ela permite visualizar o fluxo de tarefas e seus estados durante o processamento.
+
+![Execução do pipeline de dados no Apache Airflow](docs/images/airflow-pipeline.png)
+
 ## Qualidade e validação de dados
 
 O projeto inclui testes automatizados e verificações de consistência para reduzir o risco de disponibilizar dados incorretos.
