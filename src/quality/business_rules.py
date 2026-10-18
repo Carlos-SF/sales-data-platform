@@ -17,7 +17,11 @@ def validate_orders(orders: pd.DataFrame) -> None:
 
     quantity = pd.to_numeric(orders["quantity"], errors="coerce")
     price = pd.to_numeric(orders["unit_price"], errors="coerce")
-    dates = pd.to_datetime(orders["order_date"], errors="coerce")
+    dates = pd.to_datetime(
+    orders["order_date"],
+    format="%Y-%m-%d",
+    errors="coerce",
+    )
 
     if quantity.isna().any():
         raise ValueError("Quantidade inválida ou ausente.")
