@@ -113,6 +113,7 @@ Na execução validada do pipeline:
 | Clientes na Silver | 10.000 |
 | Produtos na Silver | 500 |
 | Pedidos na Silver | 100.000 |
+| Unidades vendidas | 249.995 |
 | Agregações diárias na Gold | 1.019 |
 | Categorias na Gold | 8 |
 | Produtos na Gold | 500 |
