@@ -1,4 +1,3 @@
-
 from datetime import datetime, timedelta
 
 from airflow import DAG
@@ -51,7 +50,9 @@ with DAG(
         task_id="test_silver_quality",
         bash_command=(
             f"cd {PROJECT_DIR} && "
-            "python -m pytest -v tests/"
+            "python -m pytest -v "
+            "tests/test_business_rules.py "
+            "tests/test_sales_quality.py"
         ),
     )
 
@@ -71,6 +72,14 @@ with DAG(
         ),
     )
 
+    test_postgres_integration = BashOperator(
+        task_id="test_postgres_integration",
+        bash_command=(
+            f"cd {PROJECT_DIR} && "
+            "python -m pytest -v tests/test_postgres_integration.py"
+        ),
+    )
+
     validate_gold = BashOperator(
         task_id="validate_gold",
         bash_command=(
@@ -80,11 +89,12 @@ with DAG(
     )
 
     (
-        load_raw
-        >> validate_raw
+        validate_raw
+        >> load_raw
         >> prepare_silver
         >> test_silver_quality
         >> load_silver
         >> build_gold_sql
+        >> test_postgres_integration
         >> validate_gold
     )
